@@ -35,6 +35,6 @@ The hybrid topology with 25 nodes was successfully created and analyzed.
 The node with the maximum number of connections was identified.
 
 ## Author
-Name: Ramakrushna Das  
-Reg No: 24BCE1831  
-Email: ramakrushna.das2024@vitstudent.ac.in
+Name: shivang singh 
+Reg No: 24BCE1428
+Email: shivang.singh2024@vitstudent.ac.in
